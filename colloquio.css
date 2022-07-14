@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    width: 950px;
+    margin: auto;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.container{
+    background: rgba(0,0,0,0.6);
+    border-radius: 20px 20px;
+    padding: 80px;
+    padding-bottom: 50px;
+    margin-top: 2%;
+}
+
+
+/* HEADER */
+header{
+
+    text-align: center;
+
+}
+
+/* NAV */
+nav{
+
+text-align: center;
+background-color:#9ACD32
+}
+
+.tasti{
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 11px
+}
+
+/* MAIN */
+
+
+}
+
+
+.bianco{
+
+}
+.nero{
+    display: inline-block;
+    color: white;
+    margin-top: 1%;
+    margin-bottom:1%;
+    border-radius: 10px;
+    font-size: 15px;
+
+}
+
+.revenge{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.checkbox{
+    display: inline-block;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+
+#sopp{
+    color:#9ACD32;
+    font-size: 27px;
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 5px;
+}
+
+#checky{
+    background-color: #90EE90;
+    width: 270px;
+    border-width: 0;
+    height: 24px;
+    border-radius: 5px;
+
+}
+
+#checky2{
+    background-color: #808000;
+    width: 450px;
+    border-width: 0;
+    height: 24px;
+    border-radius: 5px;
+}
+
+#checky3{
+    background-color: #CD5C5C	;
+    width: 150px;
+    border-width: 0;
+    height: 24px;
+    border-radius: 5px;
+}
